@@ -77,9 +77,9 @@ function countChar(string, char){
 
 	return charCount;
 }
+
 console.log(countChar("BBC", "B"));
 // → 2
-
 console.log(countChar("kakkerlak", "k"));
 // → 4
 

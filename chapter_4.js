@@ -1,10 +1,10 @@
 /*jslint node: true */
 'use strict';
 
-/* * * * * * * * * * * * * * * * * * * * * * * 
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * * Eloquent Javascript Exercises
-* * Chapter 4
-* * * * * * * * * * * * * * * * * * * * * * */
+* * Chapter 4 - Data Structures: Objects and Arrays
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 /* 
 Exercise 1: The Sum of a Range

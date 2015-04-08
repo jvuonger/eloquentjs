@@ -1,10 +1,10 @@
 /*jslint node: true */
 'use strict';
 
-/* * * * * * * * * * * * * * * * * * * * * * * 
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * * Eloquent Javascript Exercises
-* * Chapter 2
-* * * * * * * * * * * * * * * * * * * * * * */
+* * Chapter 2 - Program Structure
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 /*
 Exercise 1: Looping a Triangle

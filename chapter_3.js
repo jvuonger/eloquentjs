@@ -1,10 +1,10 @@
 /*jslint node: true */
 'use strict';
 
-/* * * * * * * * * * * * * * * * * * * * * * * 
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * * Eloquent Javascript Exercises
-* * Chapter 3
-* * * * * * * * * * * * * * * * * * * * * * */
+* * Chapter 3 - Functions
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 /* 
 Exercise 1: Minimum
